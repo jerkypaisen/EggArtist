@@ -135,7 +135,7 @@ namespace Oxide.Plugins
                 ["ErrorOccurred"] = "An unknown error has occured, if this error keeps occuring please notify the server admin.",
                 ["EggUpdate"] = "Please open EggSuits paint and update it!",
                 ["EggImageLoaded"] = "The image was succesfully loaded to the egg suit!",
-                ["SyntaxEggCommand"] = "Syntax error!\nSyntax: /Egg <url>",
+                ["SyntaxEggCommand"] = "Syntax error!\nSyntax: /egg <url>",
                 ["NoPermission"] = "You don't have permission to use this command.",
             }, this);
         }
