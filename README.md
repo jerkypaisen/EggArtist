@@ -11,7 +11,7 @@ savesign <file name>
 
 Upload the saved image to Discord or any other platform and obtain a URL that directly accesses the image.
 
-The case of Discord, you can obtain a URL that directly accesses the image by copying the link.
+The case of Discord, you can obtain a URL that directly accesses the image by ”copy link”.
 ![image](https://github.com/jerkypaisen/EggArtist/assets/136916794/23fd218f-d76e-4d7f-bd87-c99c421dffc1)
 
 
