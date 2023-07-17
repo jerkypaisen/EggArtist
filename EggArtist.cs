@@ -19,7 +19,7 @@ using Graphics = System.Drawing.Graphics;
 namespace Oxide.Plugins
 {
     [Info("Egg Artist", "jarkypaisen", "1.0.0")]
-    [Description("Allows players with the appropriate permission to import images from the internet on Egg suit")]
+    [Description("Upload images from the internet on Eggsuit")]
 
     public class EggArtist : RustPlugin
     {
